@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<menu>
+   <food id="fi001">
+      <title>White Rice</title>
+      <meats>false</meats>
+      <grains>true</grains>
+      <dairy>false</dairy>
+      <fruitveg>false</fruitveg>
+      <fatsoils>false</fatsoils>
+      <location>Leutner</location>
+      <time>lunch</time>
+      <calories>130</calories>
+      <carbs>27</carbs>
+      <protein>3</protein>
+      <fat>0</fat>
+      <sugars>0</sugars>
+      <sodium>210</sodium>
+      <dietaryfiber>1</dietaryfiber>
+      <vegan>true</vegan>
+      <gluten>true</gluten>
+      <servingsize>4.1</servingsize>
+      <description>plain white rice</description>
+   </food>
+   <food id="fi002">
+      <title>Scrambled Eggs</title>
+      <meats>false</meats>
+      <grains>false</grains>
+      <dairy>true</dairy>
+      <fruitveg>false</fruitveg>
+      <fatsoils>false</fatsoils>
+      <location>Leutner</location>
+      <time>breakfast</time>
+      <calories>210</calories>
+      <carbs>1</carbs>
+      <protein>15</protein>
+      <fat>16</fat>
+      <sugars>0</sugars>
+      <sodium>170</sodium>
+      <dietaryfiber>0</dietaryfiber>
+      <vegan>false</vegan>
+      <gluten>false</gluten>
+      <servingsize>4.0</servingsize>
+      <description>fresh scrambled eggs</description>
+   </food>
+   <food id="fi003">
+      <title>Buttermilk Chocolate Chip Pancakes</title>
+      <meats>false</meats>
+      <grains>true</grains>
+      <dairy>false</dairy>
+      <fruitveg>false</fruitveg>
+      <fatsoils>false</fatsoils>
+      <location>Leutner</location>
+      <time>breakfast</time>
+      <calories>290</calories>
+      <carbs>52</carbs>
+      <protein>6</protein>
+      <fat>7</fat>
+      <sugars>18</sugars>
+      <sodium>620</sodium>
+      <dietaryfiber>3</dietaryfiber>
+      <vegan>true</vegan>
+      <gluten>true</gluten>
+      <servingsize>5.2</servingsize>
+      <description>delicious chocolate pancakes</description>
+   </food>
+   <food id="fi004">
+      <title>Grilled Chicken</title>
+      <meats>true</meats>
+      <grains>false</grains>
+      <dairy>false</dairy>
+      <fruitveg>false</fruitveg>
+      <fatsoils>false</fatsoils>
+      <location>Leutner</location>
+      <time>all</time>
+      <calories>160</calories>
+      <carbs>0</carbs>
+      <protein>26</protein>
+      <fat>6</fat>
+      <sugars>0</sugars>
+      <sodium>230</sodium>
+      <dietaryfiber>0</dietaryfiber>
+      <vegan>true</vegan>
+      <gluten>true</gluten>
+      <servingsize>3.4</servingsize>
+      <description>tender grilled chicken</description>
+   </food>
+   <food id="fi005">
+      <title>Hand-Cut French Fries</title>
+      <meats>false</meats>
+      <grains>true</grains>
+      <dairy>false</dairy>
+      <fruitveg>false</fruitveg>
+      <fatsoils>false</fatsoils>
+      <location>Leutner</location>
+      <time>all</time>
+      <calories>110</calories>
+      <carbs>24</carbs>
+      <protein>2</protein>
+      <fat>0</fat>
+      <sugars>2</sugars>
+      <sodium>135</sodium>
+      <dietaryfiber>2</dietaryfiber>
+      <vegan>true</vegan>
+      <gluten>true</gluten>
+      <servingsize>4</servingsize>
+      <description>tasty fries</description>
+   </food>
+   <food id="fi006">
+      <title>Southern-Style Fried WhiteFish</title>
+      <meats>true</meats>
+      <grains>false</grains>
+      <dairy>false</dairy>
+      <fruitveg>false</fruitveg>
+      <fatsoils>false</fatsoils>
+      <location>Leutner</location>
+      <time>dinner</time>
+      <calories>340</calories>
+      <carbs>14</carbs>
+      <protein>24</protein>
+      <fat>21</fat>
+      <sugars>0</sugars>
+      <sodium>340</sodium>
+      <dietaryfiber>1</dietaryfiber>
+      <vegan>false</vegan>
+      <gluten>false</gluten>
+      <servingsize>4</servingsize>
+      <description>scrumptious fish</description>
+   </food>
+
+   
+</menu>
