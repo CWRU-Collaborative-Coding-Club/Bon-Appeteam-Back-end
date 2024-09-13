@@ -15,7 +15,7 @@ fs.readFile('./menu.xml', (err, data) => {
       console.error(err);
       return;
     }
-
+    console.log("List of food titles: \n");
     // Little script to list each of the foods by name
     if (result && result.menu && result.menu.food) {
         result.menu.food.forEach(food => {
@@ -53,14 +53,15 @@ fs.readFile('./menu.xml', (err, data) => {
     }
 
     // Output the two-dimensional array
+    console.log(" \n \nOutputting the two-dimensional array: \n")
     console.log(menuArray);
 
     menuArray = sortNut(menuArray);
+    console.log("\n \nScore Results:\n");
     for (let i = 0; i < menuArray.length; i++) {
       console.log((menuArray[i][0]) + ", diff: ");
       console.log(scoreMeal(menuArray[i]));
-    }
-    
+    }    
   });
 });
 
@@ -118,4 +119,3 @@ function scoreMeal(arr){
   return (cdiff + pdiff + fdiff + sudiff + sodiff + fibdiff)/6;
   
 }
-
