@@ -359,8 +359,8 @@
    </food>
 
 
-
-   <food id="fi013">
+<!-- KEEP IN THE CODE, TEMPLATE FOR INSERTING FOOD OPTIONS -->
+   <!-- <food id="fi013">
       <title></title>
       <meats>false</meats>
       <grains>false</grains>
@@ -380,8 +380,7 @@
       <gluten></gluten>
       <servingsize></servingsize>
       <description></description>
-   </food>
+   </food> -->
 
 	
-   
-</menu>
+</menu> <!--KEEP IN THE CODE OR ELSE XML FILE WILL NOT RUN  -->
