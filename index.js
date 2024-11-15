@@ -38,7 +38,7 @@ fs.readFile('./menu.xml', (err, data) => {
 
     //const menuArray = [];
     const includedArray = ['title','calories', 'carbs', 'protein', 'fat', 'sugars', 'sodium', 'dietaryfiber'];
-   
+   // uheruifhiuerhfuhehfkh
     
 
     // Extract and populate the array
